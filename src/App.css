@@ -1,0 +1,36 @@
+div {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #f0f0f0;
+  padding: 20px;
+}
+
+main {
+  margin: 20px 0;
+}
+
+footer {
+  background-color: #f0f0f0;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #4CAF50;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+
+button:hover {
+  background-color: #45a049;
+}
